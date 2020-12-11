@@ -5,7 +5,8 @@
 
 This repository contains the data and code for paper:
 
-> Mahmoud M. Abdelrahman, Sicheng Zhan, Clayton Miller, and Adrian Chong (2021) *Data science for building energy efficiency: 
+> Mahmoud M. Abdelrahman, Sicheng Zhan, Clayton Miller, and Adrian Chong (2021) 
+> *Data science for building energy efficiency: 
 > A comprehensive data-driven review of scientific literature*. (In review)
 
 ### How to cite
