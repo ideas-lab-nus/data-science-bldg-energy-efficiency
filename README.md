@@ -9,19 +9,15 @@ This repository contains the data and code for paper:
 > *Data science for building energy efficiency: A comprehensive data-driven review of scientific literature*. (In review)
 
 ### How to cite
+in progress
 
-
-### How to download or install
+### Graphical abstract
+![visual_abstractAsset 18@4x-80](https://user-images.githubusercontent.com/6969514/102309569-066e2400-3fa4-11eb-920d-381f177f44b4.jpg)
 
 ### Licenses
 
 **Text and figures :**
 [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
-
-**Code :** See the [DESCRIPTION](DESCRIPTION) file
-
-**Data :** [CC-0](http://creativecommons.org/publicdomain/zero/1.0/)
-attribution requested in reuse
 
 ### Contributions
 
