@@ -2,5 +2,3 @@
 1. install packages `pip3 install -r requirements.txt`
 2. open the notebook. 
 3. run the cells. 
-
-* The gensim model takes some time to load the vocabulary based on the vocabulary size*
