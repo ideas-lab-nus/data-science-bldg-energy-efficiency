@@ -1,6 +1,6 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Data science for building energy efficiency: A comprehensive data-driven review of scientific literature
+# Data science for building energy efficiency: A comprehensive text-mining review of scientific literature
 
 
 This repository contains the data and code for paper:
